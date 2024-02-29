@@ -1,0 +1,7 @@
+Processes    Burst Time  Waiting time    Turn around time
+Average Time: -0
+Average Turn around time: -0
+
+|
+
+0	

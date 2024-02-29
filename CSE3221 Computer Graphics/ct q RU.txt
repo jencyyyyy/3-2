@@ -1,0 +1,8 @@
+1. *What is Saturation?*
+2. *Define Shade, Tint and Tone.*
+3. *Briefly describe the RGB color model.*
+
+Which one is multiplicative? Translation, Rotation or Scaling?
+With a neat diagram describe the steps of General Pivot Point Rotation.
+With only diagram show the rotation of an object with respect to the line y = x.
+Write short note on Shear.

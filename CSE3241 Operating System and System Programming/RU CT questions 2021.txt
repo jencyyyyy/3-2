@@ -1,0 +1,13 @@
+## Class Test #1
+
+1. Define Operating System. What are the different services of an operating system? Discuss them.
+2. *Differentiate program & process. What do you mean by Program Control Block? Discuss different components of a Program Control Block.*
+3. What is context switch? Discuss context switching between two processes.
+
+## Class Test #2
+
+1. Define deadlock. What are the 4 necessary condition to have deadlock in a system? Discuss.
+2. **A cycle in a resource allocation graph is necessary condition to have deadlock in a system, but not sufficient” - explain with example
+3.If resource preemption is required to deal with deadlock, then what issues should be addressed? Discuss.
+4. Define logical & physical address. Explain how a logical address is mapped into it’s physical address
+5. What is dirty or modify bit? Explain it’s uses & benefits while swapping out some pages from memory to backing store.

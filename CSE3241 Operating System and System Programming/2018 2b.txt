@@ -1,0 +1,12 @@
+The following processes are being scheduled using a preemptive, priority-based, round-robin scheduling algorithm.
+Process Priority Burst Arrival 
+P1 	 8 	 15 	  0
+P2 	 2 	 20	  0
+P3	 4 	 20	 20
+P4  	 4 	 20 	 25
+P5	 5	  5	 45
+P6	 5 	 15 	 55
+Each process is assigned a numerical priority, with a higher number indicating a higher relative priority. The scheduler will execute the highest priority process. For processes with the same priority, a round-robin scheduler will be used with a time quantum of 10 units. If a process is preempted by a higher-priority process, the preempted process is placed at the end of the queue. 
+i. Show the scheduling order of the processes using a Gantt chart.
+ii. What is the turnaround time for each process?
+iii. What is the waiting time for each process?

@@ -1,0 +1,10 @@
+Processes    Burst Time  Waiting time    Turn around time
+ p1		24		0		24
+ p2		3		24		27
+ p3		3		27		30
+Average Time: 17
+Average Turn around time: 27
+------------------------------------------------
+|	P1	|	P2	|	P3	|
+------------------------------------------------
+0		24		27		30	

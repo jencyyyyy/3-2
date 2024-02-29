@@ -1,0 +1,26 @@
+at: an array that stores the arrival time of each process
+bt: an array that stores the burst time of each process
+ct: an array that stores the completion time of each process
+qt: an integer that stores the time quantum
+rqi: an array that stores the processes that are ready to be executed
+c: an integer that is used as a counter
+st: an integer that stores the start time
+flg: an integer flag that is used to control the flow of the algorithm
+tm: an integer that stores the current time
+noe: an integer that stores the number of elements in the ready queue
+pnt: an integer that stores the index of the process to be executed
+btm: an array that stores the remaining burst time of each process
+tt: an integer that stores the turnaround time
+wt: an integer that stores the waiting time
+att: a float that stores the average turnaround time
+awt: a float that stores the average waiting time
+
+5
+
+0 10
+3 5
+5 2
+6 6
+8 4
+
+2

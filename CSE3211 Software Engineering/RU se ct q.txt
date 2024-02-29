@@ -1,0 +1,13 @@
+## Class Test #1
+
+1. *Compare between Hardware & Software.*
+2. *State SDLC phases & their outcome documents.*
+3. *State the workflow & phases of the RUP.*
+4. *Explain the characteristics of a good requirement.*
+
+## Class Test #2
+
+1. **Write the characteristics of software testability
+2. *Define cyclomatic complexity.*
+3. Distinguish between white-box & black-box testing.
+4. What is meant by software validation & verification. Name some SQA activities that are encompassed by V&V process.
